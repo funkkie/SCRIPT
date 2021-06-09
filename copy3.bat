@@ -1,0 +1,1 @@
+nircmd elevatecmd exec hide "D:\robo2.bat"
